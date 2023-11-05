@@ -1,0 +1,2 @@
+# Percin_Makinalarinda_Kestirimci_Bak-m_Uygulamalari
+LSTM modeliyle asenkron motorlarda Otonom Kestrimci Bakım Çalışması
