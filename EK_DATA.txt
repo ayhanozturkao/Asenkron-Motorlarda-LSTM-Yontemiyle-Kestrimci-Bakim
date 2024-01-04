@@ -1,0 +1,9 @@
+{'Shift':2,'MachineStationId':9,'ProductId':3,'DataId':161,'Value':'2,53','PersonId':0,'CylcleTime':0,'ID':138157062,'CreatedDate':'2023-10-03T09:10:26.6640918+03:00','ModifiedDate':0,'DeletedDate':0,'Status':1},
+{'Shift':2,'MachineStationId':9,'ProductId':3,'DataId':162,'Value':'2,51','PersonId':0,'CylcleTime':0,'ID':138157063,'CreatedDate':'2023-10-03T09:10:26.6640918+03:00','ModifiedDate':0,'DeletedDate':0,'Status':1},
+{'Shift':2,'MachineStationId':9,'ProductId':3,'DataId':1264,'Value':'','PersonId':0,'CylcleTime':0,'ID':138157064,'CreatedDate':'2023-10-03T09:10:26.6640918+03:00','ModifiedDate':0,'DeletedDate':0,'Status':1},
+{'Shift':2,'MachineStationId':9,'ProductId':3,'DataId':1265,'Value':'0','PersonId':0,'CylcleTime':0,'ID':138157065,'CreatedDate':'2023-10-03T09:10:26.6640918+03:00','ModifiedDate':0,'DeletedDate':0,'Status':1},
+{'Shift':2,'MachineStationId':9,'ProductId':3,'DataId':1266,'Value':'0','PersonId':0,'CylcleTime':0,'ID':138157066,'CreatedDate':'2023-10-03T09:10:26.6640918+03:00','ModifiedDate':0,'DeletedDate':0,'Status':1},
+{'Shift':2,'MachineStationId':9,'ProductId':3,'DataId':1770,'Value':'6,74','PersonId':0,'CylcleTime':0,'ID':138157067,'CreatedDate':'2023-10-03T09:10:26.6640918+03:00','ModifiedDate':0,'DeletedDate':0,'Status':1},
+{'Shift':2,'MachineStationId':9,'ProductId':3,'DataId':1220,'Value':'1','PersonId':0,'CylcleTime':0,'ID':138157068,'CreatedDate':'2023-10-03T09:10:26.6640918+03:00','ModifiedDate':0,'DeletedDate':0,'Status':1},
+{'Shift':2,'MachineStationId':9,'ProductId':3,'DataId':1267,'Value':'91,64','PersonId':0,'CylcleTime':0,'ID':138157069,'CreatedDate':'2023-10-03T09:10:26.6640918+03:00','ModifiedDate':0,'DeletedDate':0,'Status':1},
+{'Shift':2,'MachineStationId':9,'ProductId':3,'DataId':1268,'Value':'102','PersonId':0,'CylcleTime':0,'ID':138157070,'CreatedDate':'2023-10-03T09:10:26.6640918+03:00','ModifiedDate':0,'DeletedDate':0,'Status':1}]
